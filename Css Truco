@@ -1,1 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+    border: #333 solid 10px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 
+  .pontuacao {
+    font-size: 50px;
+  }
+
+  .botoes{
+    border: #333 solid 10px;
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  h1 {
+    margin-top: 20px;
+    color: #e90a0af3;
+   }
+
+  button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
