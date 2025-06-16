@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truco</title>
+</head>
+<body>
+    <header>
+        <h1>Trucooo</h1>
+    </header>
+    <main>
+     <section>
+        <H2>Jogadores 1</H2>
+        <button>+1</button>
+        <button>+3</button>
+        <button>+6</button>
+        <button>+9</button>
+        <button>+12</button>
+     </section>
+
+     <section>
+        <H2>Jogadores 2</H2>
+        <button>+1</button>
+        <button>+3</button>
+        <button>+6</button>
+        <button>+9</button>
+        <button>+12</button>
+     </section>
+    </main>
+    
+</body>
+</html>
