@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="deco.css" />
 </head>
 <body>
-  <h1>Contador de Truco</h1>
+  <header><h1>Contador de Truco</h1></header>
 
   <div class="dupla" id="dupla1">
     <h2>Dupla 1</h2>
@@ -38,4 +38,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-
